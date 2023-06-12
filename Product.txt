@@ -1,0 +1,9 @@
+Product
+
+id
+user_id
+name\
+description
+price 
+image
+created

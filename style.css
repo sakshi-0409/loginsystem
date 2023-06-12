@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("images/bg.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 75%;
+}
+.btn{
+    background-color: darkcyan;
+    color: rgb(174, 235, 235);
+}
+.btn:hover{
+    border: 2px solid darkcyan;
+    background-color: lightseagreen;
+    color: rgb(3, 65, 65);
+}
+h3{
+    display: block;
+    text-align: center;
+    font-family:'Alegreya', serif;
+    
+}
